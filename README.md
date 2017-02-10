@@ -8,8 +8,8 @@ A screenshot from a 1920x1080 computer screen:
 
 Screenshots taked from iOS and Android phones:
 
-![Alt text](/ScreenShots/mobile.png?raw=true "login")
+<img src="ScreenShots/mobile.png" width="684" height="634">
 
 A screenshot taken from an iPad:
 
-![Alt text](/ScreenShots/ipad.png?raw=true "login")
+<img src="ScreenShots/ipad.png" width="684" height="634">
