@@ -8,7 +8,7 @@ A screenshot from a 1920x1080 computer screen:
 
 Screenshots taked from iOS and Android phones:
 
-<img src="ScreenShots/mobile.png" width="600" height="500">
+<img src="ScreenShots/mobile.png">
 
 A screenshot taken from an iPad:
 
