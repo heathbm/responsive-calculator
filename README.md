@@ -14,7 +14,7 @@ Screenshots taked from iOS and Android phones:
 
 Screenshot taked from an Android phone in landscape mode:
 
-<img src="ScreenShots/hoz-mobile.png" width="960" height="540">
+<img src="ScreenShots/hoz-mobile.png" width="672" height="378">
 
 A screenshot taken from an iPad:
 
